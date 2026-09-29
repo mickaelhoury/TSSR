@@ -1,2 +1,1 @@
-# TSSR
-# Ressources utilisées pendant ma formation.
+Ressources utilisées pendant ma formation.
