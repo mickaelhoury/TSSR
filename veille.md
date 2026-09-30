@@ -1,4 +1,4 @@
-# Liste des différentes sources de veille IT
+# Liste de ma veille IT
 
 # Sites Informatifs
 
