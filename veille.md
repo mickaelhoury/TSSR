@@ -1,5 +1,5 @@
-# Liste de ma veille IT
-Ici se trouve les différentes sources que j'utilise au quotidien pour me renseigner sur l'actualité de l'informatique.
+# La veille Informatique
+La veille est une routine informationnelle permettant de s'informer quotidiennement dans un sujet précis : ici l'IT.
 
 # Sites Informatifs
 
