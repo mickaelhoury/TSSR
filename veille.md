@@ -1,11 +1,29 @@
 # Liste des différentes sources de veille IT
 
-* https://www.privacytools.io/
-* https://www.bortzmeyer.org/
-* https://www.next.ink/
-* https://www.minimachines.net/
-* https://www.laquadrature.net/en/
-* ITConnect
-* Underscore
-* LeFiltre
-* Cocadmin 
+# Sites Informatifs
+
+* https://cyber.gouv.fr/
+
+* https://www.cert.ssi.gouv.fr/
+* https://www.it-connect.fr/actualites/
+* https://next.ink/
+* https://www.journalduhacker.net/
+* https://www.usine-digitale.fr/
+* https://www.linformaticien.com/
+* https://www.techtarget.com/fr/auteur/La-Redaction
+
+# Chaînes Youtube
+
+* IT-Connect - Florian
+ 
+ * Underscore_
+* cocadmin
+* xavki
+* Civilisation IT
+* Tech2Tech
+
+# Podcast
+* Tech Café
+* Le rendez-vous Tech
+* Comptoir IA
+
