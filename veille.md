@@ -1,4 +1,5 @@
 # Liste de ma veille IT
+Ici se trouve les différentes sources que j'utilise au quotidien pour me renseigner sur l'actualité de l'informatique.
 
 # Sites Informatifs
 
