@@ -1,36 +1,59 @@
-OS = Operating System
-ordinateur hardware : CPU RAM MB
-           hal : POST = Power on self text
-                 Bios = BootLoader
+# Cheat Sheet Windows
 
-Unix : 70's -> 2020's
-80's : BSD -> FreeBSD OpenBSD    NetBSD 
-                             -> Mac OS ( dérivé de FreeBSD, OpenBSD)
-85 : Windows                           
-91 : GNU/Linux 
-2007 : Android (Linux)
+## Racourcis clavier Windows
 
-Intel 4004 : premier processeur commercialisé 15 novembre 1971
-Intel 8086 : processeur fondateur grand public 1978
+**Win + E : Explorateur de fichier**
 
-Altair 8800 : ordinateur vendu en kit (premier language basique)
+**Win + L : Verrouillage de la session**
 
-Apple II : système d'exploitation apple 1977
+Win + I : Paramètres Windows
 
-IBM PC : 1981
+Win + V : Historique du presse-papier
 
-QDOS : 1980 ( ancêtre de MS-DOS)
+**Win + X : Menu outils avancés**
 
-DOS = MonoUser MonoTache
+**Win + R : fenêtre Exécuter**
 
-De 85 à 99, Windows à besoin de MSDOS pour démarrer ( De Windows 1.0 à Windows ME)
+Alt + Tab : Basculer entre les fenêtres
 
-1993 : WindowsNT (Pour entreprises)
-2000 : WindowsNT5 - Windows Server
-2001 : WindowsXP (NT5.1) - Windows Server 2003
-2007 : WindowsVista(NT6) - 2003 SP2
-2009 : Windows 7 - 2008 Serveur
-2012 : Windows 8 - 2012 Serveur
-2013 : Windows 8.1
-2015 : Windows 10 - 2016 Serveur
-2021 : Windows 11 - 2019/2022/2025 Serveur
+Win + M : Réduire toutes les fenêtres
+
+Win + Maj + M : Restaurer les fenêtres réduites
+
+**Alt + F4 : Fermeture d'application / Arrêt de l'ordinateur**
+
+Win + H : Saisie vocale
+
+Win + P : Mode d'affichage d'écrans 
+
+Win + + : Agrandir la loupe
+
+Win + - : Réduire le zoom de la loupe
+
+F2 : Renommer l'élément sélectionné
+
+**Ctrl + Maj + V : Coller sans mise en forme**
+
+**Ctrl + Maj + Echap : Gestionnaire des tâches**
+
+
+
+
+
+## Commandes Windows + R
+
+
+
+        cpl                msc                    other
+        
+        ncpa.cpl           gpedit.msc             control
+        firewall.cpl       devmgmt.msc            regedit
+        appwiz.cpl         diskmgmt.msc           mstsc
+        mmsys.cpl          lusrmgr.msc            mmc
+        powercfg.cpl       eventvwr.msc           %temp%
+        sysdm.cpl          services.msc           cmd
+        main.cpl           compmgmt.msc           cleanmgr
+        odbccp32.cpl       wf.msc                 mrt
+                           secpol.msc             msinfo32
+                                                  wsl
+                                                  taskmgr
